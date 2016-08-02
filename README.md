@@ -4,8 +4,11 @@ Game 3d car design
 
 #screenshot
 
-https://github.com/kusha-b-k/3D_car_Model/blob/master/images/carface2.png
+![alt tag](https://github.com/kusha-b-k/3D_car_Model/blob/master/images/carface1.png)
 
+![alt tag](https://github.com/kusha-b-k/3D_car_Model/blob/master/images/carface2.png)
+
+![alt tag](https://github.com/kusha-b-k/3D_car_Model/blob/master/images/carface3.png)
 
 
 
